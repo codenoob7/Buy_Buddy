@@ -122,7 +122,7 @@ def create_loader(show_text):
 
     rotate_loader()
 
-    navigation.get_frame().lift()
+    # navigation.get_frame().lift()
 
     return loading_frame
 
