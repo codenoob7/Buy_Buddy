@@ -179,3 +179,17 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# PyInstaller artifacts
+build/
+dist/
+*.spec
+
+# Output data
+CSV_Dataset/
+*.csv
+*.xlsx
+*.html
+
+# App data
+data/product_data.json
