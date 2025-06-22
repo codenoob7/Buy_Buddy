@@ -183,7 +183,7 @@ cython_debug/
 # PyInstaller artifacts
 build/
 dist/
-*.spec
+
 
 # Output data
 CSV_Dataset/
