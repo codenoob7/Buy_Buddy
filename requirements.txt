@@ -1,0 +1,7 @@
+customtkinter
+requests
+beautifulsoup4
+selenium
+selenium-stealth
+pandas
+openpyxl
